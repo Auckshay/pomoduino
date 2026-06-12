@@ -31,3 +31,7 @@ Every single time I sat down, planning to work on something, I always found myse
 | SW2 | SW (YELLOW Key Cap) |  | Button_Switch_THT:SW_PUSH-12mm | 1 |  |
 | SW3 | SW (RED Key Cap) |  | Button_Switch_THT:SW_PUSH-12mm | 1 |  |
 | U1 | HC-SR04 |  | HC-SR04:XCVR_HC-SR04 | 1 |  |
+
+### External Hardware Required
+- 1x Arduino UNO (R3 or R4) – The host board.
+- 1x USB-C Cable or USB-B, depending on the Arduino version.
