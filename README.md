@@ -1,15 +1,15 @@
 # Pomoduino (An Arduino UNO shield)
 
-A little DIY Pomodoro timer to keep you focused, and away from pesky distractions.
+A little DIY Pomodoro timer to keep you focused and away from pesky distractions.
 
 (3D model)
 
 <img width=50% height=50% alt="image" src="https://github.com/user-attachments/assets/fd588a66-c706-4d48-aae4-8df975b6f881" />
 
 ## How it works
-To use the pomoduino, in front of an distracting object making sure that the sensor is unobscured clear path infront of it to detect movement. Then set the timer length and break length and start it.
+To use the pomoduino, in front of a distracting object, making sure that the sensor is unobscured, and a clear path in front of it to detect movement. Then set the timer length and break length, and start it.
 ## Why I made this
-Every single time I sat down, planning to work on something, I always found myself instinctavly reaching for my phone. I knew this was an issue and I of course tried to set screen time limits and pomoduro timers to keep me locked in, but I found my self either disabling and just finding some other convluded work around subconsiously. But I knew that i've always been a person that obeys physical obstruction. Thats when I got the idea of creating a device that aided me in focus with a pomoduro timer, but also physically remind me to focus up.
+Every single time I sat down, planning to work on something, I always found myself instinctively reaching for my phone. I knew this was an issue, and I, of course, tried to set screen time limits and pomodoro timers to keep me locked in. Still, I found myself either disabling them or just finding some other convoluted workaround subconsciously. But I knew that I've always been a person who obeys physical obstruction. That's when I got the idea of creating a device that aided me in focus with a pomoduro timer, but also physically reminded me to focus up.
 ## Design Images
 ### Schematic Design
 <img width="833" height="927" alt="image" src="https://github.com/user-attachments/assets/237ae9ba-139b-428f-b13e-c526e254b021" />
