@@ -21,7 +21,7 @@ Every single time I sat down, planning to work on something, I always found myse
 
 | Reference | Value | Datasheet | Footprint | Qty | DNP |
 | --- | --- | --- | --- | --- | --- |
-| DS1 | OLED_128X64_.96_I2C |  | OLED_128X64_1.3_I2C:LCD_OLED_128X64_.96_I2C | 1 |  |
+| DS1 | OLED_128X64_.96_I2C |  | OLED_128X64_.96_I2C:LCD_OLED_128X64_.96_I2C | 1 |  |
 | J1 | Power |  | PinHeader_1x08_P2.54mm_Vertical | 1 |  |
 | J2,J4 | Digital/PWM |  | PinHeader_1x08_P2.54mm_Vertical,PinHeader_1x10_P2.54mm_Vertical | 2 |  |
 | J3 | Analog |  | PinHeader_1x06_P2.54mm_Vertical | 1 |  |
