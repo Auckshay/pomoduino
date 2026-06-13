@@ -19,18 +19,17 @@ Every single time I sat down, planning to work on something, I always found myse
 
 ## B.O.M.
 
-| Reference | Value | Datasheet | Footprint | Qty | DNP |
-| --- | --- | --- | --- | --- | --- |
-| DS1 | OLED_128X64_.96_I2C |  | OLED_128X64_.96_I2C:LCD_OLED_128X64_.96_I2C | 1 |  |
-| J1 | Power |  | PinHeader_1x08_P2.54mm_Vertical | 1 |  |
-| J2,J4 | Digital/PWM |  | PinHeader_1x08_P2.54mm_Vertical,PinHeader_1x10_P2.54mm_Vertical | 2 |  |
-| J3 | Analog |  | PinHeader_1x06_P2.54mm_Vertical | 1 |  |
-| LS1 | Buzzer |  | KSSG1201-16:XDCR_KSSG1201-16 | 1 |  |
-| R1 | R_220Ω |  | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal | 1 |  |
-| SW1 | SW (GREEN Key Cap) |  | Button_Switch_THT:SW_PUSH-12mm | 1 |  |
-| SW2 | SW (YELLOW Key Cap) |  | Button_Switch_THT:SW_PUSH-12mm | 1 |  |
-| SW3 | SW (RED Key Cap) |  | Button_Switch_THT:SW_PUSH-12mm | 1 |  |
-| U1 | HC-SR04 |  | HC-SR04:XCVR_HC-SR04 | 1 |  |
+|Reference  |Name                          |Purpose                                   |Qty|Cost (USD)                    |LINK                                                                                  |
+|-----------|------------------------------|------------------------------------------|---|------------------------------|--------------------------------------------------------------------------------------|
+|DS1        |Monochrome_OLED_128X64_.96_I2C|Display Count Down, Distraction Notif, ect|1  |6.99                          |https://a.co/d/0dFfSqWY                                                               |
+|J1,J2      |Male Pin Header-1x8-P2.54mm   |For mounting to Arduino UNO               |2  |11.99                         |https://a.co/d/0gofrzR4 (Bulk order applicable for other projects)                    |
+|J3         |Male Pin Header-1x6-P2.54mm   |For mounting to Arduino UNO               |1  |N/A                           |bundled above                                                                         |
+|J4         |Male Pin Header-1x10-P2.54mm  |For mounting to Arduino UNO               |1  |N/A                           |bundled above                                                                         |
+|LS1        |Passive Buzzer                |Auditory input                            |1  |Owned                         |N/A                                                                                   |
+|R1         |220Ω Resistor                 |Current limiting                          |1  |Owned                         |N/A                                                                                   |
+|SW1,SW2,SW3|Push Button-12mm              |Human Interaction                         |3  |Owned                         |N/A                                                                                   |
+|U1         |HC-SR04                       |Distance measurement                      |1  |Owned                         |N/A                                                                                   |
+|           |PCB                           |For mounting and connecting all components|1  |(Global Direct Shipping) 11.31|https://www.pcbway.com/orderonline.aspx?outsideid=d9d46809-3d4a-4ff4-aac3-b91ac39b3b48|
 
 ### External Hardware Required
 - 1x Arduino UNO (R3 or R4) – The host board.
