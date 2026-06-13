@@ -1,10 +1,8 @@
-Reference,Name,Purpose,Qty,Cost (USD),LINK
-DS1,Monochrome_OLED_128X64_.96_I2C,"Display Count Down, Distraction Notif, ect",1,6.99,https://a.co/d/0dFfSqWY
-"J1,J2",Male Pin Header-1x8-P2.54mm,For mounting to Arduino UNO,2,11.99,https://a.co/d/0gofrzR4 (Bulk order applicable for other projects) 
-J3,Male Pin Header-1x6-P2.54mm,For mounting to Arduino UNO,1,N/A,bundled above
-J4,Male Pin Header-1x10-P2.54mm,For mounting to Arduino UNO,1,N/A,bundled above
-LS1,Passive Buzzer,Auditory input,1,Owned,N/A
-R1,220Ω Resistor,Current limiting,1,Owned,N/A
-"SW1,SW2,SW3",Push Button-12mm,Human Interaction,3,Owned,N/A
-U1,HC-SR04,Distance measurement,1,Owned,N/A
-,PCB,For mounting and connecting all components,1,(Global Direct Shipping) 11.31,https://www.pcbway.com/orderonline.aspx?outsideid=d9d46809-3d4a-4ff4-aac3-b91ac39b3b48
+Name,Purpose,Qty,Cost (USD),LINK,Distributor
+Monochrome_OLED_128X64_.96_I2C-1pc,"Display Count Down, Distraction Notif, ect",1,6.99$,https://a.co/d/0dFfSqWY,Amazon
+"2.54mm Pin Header, Male Straight Single Row Header Pin 180 Degree Connector,1x2 1x3 1x4 1x5 1x6 1x7 1x8 1x9 1x10 1x12 ",For mounting to Arduino UNO,1,11.99$,https://a.co/d/0gofrzR4,Amazon
+Passive Buzzer-5pc,Auditory Output,1,1.18$,https://www.aliexpress.us/item/3256806074013807.html,AliExpress
+220Ω Resistor-10pc,Current limiting,1,1.46$,https://www.aliexpress.us/item/3256802927431747.html,AliExpress
+Colorful Push Button-12mm-15pc ,Human Interaction,1,5.95$,https://www.adafruit.com/product/1010,Adafruit
+HC-SR04-1pc,Distance measurement,1,6.17$,https://www.aliexpress.us/item/3256810043926609.html?gatewayAdapt=glo2usa,AliExpress
+PCB-5pc,For mounting and connecting all components,1,5.00$,https://www.pcbway.com/orderonline.aspx?outsideid=d9d46809-3d4a-4ff4-aac3-b91ac39b3b48,PCBWAY
