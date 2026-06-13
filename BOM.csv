@@ -1,0 +1,10 @@
+Reference,Name,Purpose,Qty,Cost (USD),LINK
+DS1,Monochrome_OLED_128X64_.96_I2C,"Display Count Down, Distraction Notif, ect",1,6.99,https://a.co/d/0dFfSqWY
+"J1,J2",Male Pin Header-1x8-P2.54mm,For mounting to Arduino UNO,2,11.99,https://a.co/d/0gofrzR4 (Bulk order applicable for other projects) 
+J3,Male Pin Header-1x6-P2.54mm,For mounting to Arduino UNO,1,N/A,bundled above
+J4,Male Pin Header-1x10-P2.54mm,For mounting to Arduino UNO,1,N/A,bundled above
+LS1,Passive Buzzer,Auditory input,1,Owned,N/A
+R1,220Ω Resistor,Current limiting,1,Owned,N/A
+"SW1,SW2,SW3",Push Button-12mm,Human Interaction,3,Owned,N/A
+U1,HC-SR04,Distance measurement,1,Owned,N/A
+,PCB,For mounting and connecting all components,1,(Global Direct Shipping) 11.31,https://www.pcbway.com/orderonline.aspx?outsideid=d9d46809-3d4a-4ff4-aac3-b91ac39b3b48
